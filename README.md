@@ -40,6 +40,42 @@
 
 ## 🚀 Cómo ejecutar el proyecto
 
+supervivencia-zombie/
+│
+├── main.py                 # Tu script principal
+├── README.md               # Archivo README con descripción del proyecto
+├── .gitignore              # Archivos y carpetas a ignorar por Git
+└── assets/                 # (Opcional) Carpeta para imágenes, íconos, video thumbnails, etc.
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode config
+.vscode/
+
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos de entorno
+.env
+
+
 ```bash
 git clone https://github.com/tuusuario/supervivencia-zombie.git
 cd supervivencia-zombie
