@@ -32,11 +32,11 @@
 ## 📽️ ¡Mira el video explicativo!
 
 📺 He creado un video en mi canal de YouTube mostrando cómo funciona este mini proyecto paso a paso.  
-➡️ [Ver en YouTube](https://www.youtube.com/@TuCanal)
+➡️ 
 
 > 💬 ¡No olvides dejar un like, comentar y suscribirte si te gustó!
 
----
+--- https://www.youtube.com/watch?v=BaxjRDvdc9g
 
 ## 🚀 Cómo ejecutar el proyecto
 
